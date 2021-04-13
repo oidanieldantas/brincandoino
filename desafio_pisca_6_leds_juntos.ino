@@ -21,7 +21,8 @@ void loop()
   // Laco que inverte o estado da porta baseando o estado anterior
   for(byte i=2; i<8;i++){
     digitalWrite(i,!digitalRead(i));
-  }delay(500); // 'Congela' 0,5s e reinicia o loop
+  }
+  delay(500); // 'Congela' 0,5s e reinicia o loop
 }
 
 /*
