@@ -2,7 +2,8 @@
 * Prog.: RecebeEnviaBT
 * Criado por: Daniel H. N. Dantas
 * Criado em: 17 abr 21
-*
+* Usando: Visual Studio Code + PlatformIO
+* Dispositivo: ESP32 - Heltec WiFi_Kit32
 * OBS.: Com ajustes esse cod pode se tornar uma funcao para enviar palavras/textos para o clienteBT
 * Referencia:
 * How to Use Classic Serial Bluetooth in ESP32
